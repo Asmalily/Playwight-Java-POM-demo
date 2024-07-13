@@ -1,4 +1,4 @@
-Playwright Automation Test Project
+Playwright Automation Test Project : 
 Overview
 This project utilizes the Playwright Java framework to automate test cases for a specific application. The primary focus is on four core scenarios:
 
